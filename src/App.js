@@ -10,6 +10,7 @@ import AppHeader from './components/AppHeader';
 import AddMovieForm from './components/AddMovieForm';
 import FavoriteMovieList from './components/FavoriteMovieList';
 
+
 const App = props => {
   const displayFavorites = true;
 
